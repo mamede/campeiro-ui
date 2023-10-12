@@ -2,6 +2,7 @@
   "name": "@campeiro-ui/docs",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "dev": "start-storybook -p 6006",
