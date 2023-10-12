@@ -1,4 +1,4 @@
-# @campeiro-ui/tokens
+# @mamede/tokens
 
 ## 1.0.0
 

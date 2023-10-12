@@ -1,4 +1,4 @@
-# @campeiro-ui/ts-config
+# @mamede/ts-config
 
 ## 1.0.0
 

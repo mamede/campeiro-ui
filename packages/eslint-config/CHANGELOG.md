@@ -1,4 +1,4 @@
-# @campeiro-ui/eslint-config
+# @mamede/eslint-config
 
 ## 1.0.0
 

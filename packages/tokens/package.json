@@ -1,5 +1,5 @@
 {
-  "name": "@campeiro-ui/tokens",
+  "name": "@mamede/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -11,11 +11,11 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "mamede",
   "license": "MIT",
   "devDependencies": {
-    "@campeiro-ui/eslint-config": "*",
-    "@campeiro-ui/ts-config": "*",
+    "@mamede/eslint-config": "*",
+    "@mamede/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   }
