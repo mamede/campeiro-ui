@@ -1,0 +1,2 @@
+import{e as t,a as r,T as e}from"./index.142d387a.js";import{j as o}from"./jsx-runtime.3b5847c2.js";import"./index.ebd22e21.js";import"./iframe.d538b4d9.js";import"./index.e332e6c5.js";const n={title:"Form/Tooltip",component:t,args:{trigger:o(r,{disabled:!0,children:o(e,{children:"Deixe o mouse parado aqui"})}),content:"26 de Outubro - Dispon\xEDvel"}},d={},l=["Primary"];export{d as Primary,l as __namedExportsOrder,n as default};
+//# sourceMappingURL=Tooltip.stories.c5b8dced.js.map
