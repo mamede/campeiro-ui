@@ -2,6 +2,7 @@ import { Meta, StoryObj } from '@storybook/react'
 import { Button, Toast, ToastProps } from '@mamede/react'
 import { useState } from 'react'
 
+
 export default {
   title: 'Form/Toast',
   component: Toast,
