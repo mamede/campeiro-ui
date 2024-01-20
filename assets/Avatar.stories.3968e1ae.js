@@ -1,0 +1,2 @@
+import{A as t}from"./index.142d387a.js";import"./index.ebd22e21.js";import"./iframe.d538b4d9.js";import"./index.e332e6c5.js";import"./jsx-runtime.3b5847c2.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/mamede.png",alt:"Felipe Mamede"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.3968e1ae.js.map
